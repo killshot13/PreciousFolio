@@ -6,14 +6,14 @@ Security tracker for intial builder, later to be used for version updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.0   | :white_check_mark: |
-| 1.0.1   | :tbd:              |
-| 1.0.2   | :tbd:              |
-| 1.0.3   | :tbd:              |
+| 0.1.0   | :white_check_mark: |
+| 0.2.0   | :tbd:              |
+| 0.3.0   | :tbd:              |
+| 0.4.0   | :tbd:              |
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, please message me directly or shoot me an email @ safethishome@gmail.com
+To report a vulnerability, please message me directly or shoot me an email @dmreh@outlook.com
 
 Whether this app gets published in the Play Store remains to be seen, but the latest version will always be available for download here. 
 Once a security issue is confirmed, I will post a notice here, which will identify the vulnerability and establish a tenative timeline for
